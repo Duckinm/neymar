@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "baseUrl": "./src/",
+    "target": "esnext",
+    "module": "es2022",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    "jsxImportSource": "react"
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
+}
